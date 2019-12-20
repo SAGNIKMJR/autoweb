@@ -1,7 +1,7 @@
 # Autonomous web navigation with RL
  This is the code for the final project in CS394R: Reinforcement Learning Theory and Practice at UT Austin.
 
-**Authors:** Sagnik Majumder\*, Chinmoy Samant\* (\* equal contribution) 
+**Authors:** Sagnik Majumder, Chinmoy Samant 
 
 This code is heavily inspired from the [**source code**](https://github.com/stanfordnlp/wge) accompanying the ICLR 2018 paper:  
 [**Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration**](https://arxiv.org/abs/1802.08802)
